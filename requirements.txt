@@ -1,0 +1,26 @@
+# DeepAgent v1.0.0 - Python Dependencies
+# Standalone AI/ML Assistant Requirements
+
+# Core Web Framework
+Flask==2.3.3
+Flask-CORS==4.0.0
+Werkzeug==2.3.7
+
+# Machine Learning & AI
+scikit-learn==1.3.0
+numpy==1.24.3
+pandas==1.5.3
+scipy==1.11.1
+joblib==1.3.2
+
+# Natural Language Processing
+nltk==3.8.1
+textblob==0.17.1
+langdetect==1.0.9
+
+# Deep Learning (Optional - for advanced features)
+tensorflow==2.13.0
+torch==2.0.1
+transformers==4.33.2
+
+# Data Visualization
